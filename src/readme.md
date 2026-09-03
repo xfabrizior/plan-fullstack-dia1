@@ -1,3 +1,4 @@
 Clases y objetos
 
-Alumno y objeto en main.
+Agregar cosntructor a la clase alumno y
+usarlo en la clase main.

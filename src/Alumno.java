@@ -5,6 +5,11 @@ public class Alumno
     String carrera;
     int edad;
 
+    public Alumno(String nombre, String carrera, int edad) {
+        this.nombre = nombre;
+        this.carrera = carrera;
+        this.edad = edad;
+    }
 
     void presentarse()
     {
