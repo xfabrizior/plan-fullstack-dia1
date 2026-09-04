@@ -1,4 +1,3 @@
-Clases y objetos
-
-Uso de getter y setters
-y cambios desde el main
+Bucles
+Uso de for y while ejemplos muy 
+básicos
