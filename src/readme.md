@@ -1,4 +1,4 @@
 Clases y objetos
 
-Sobrecarga y encadenamiento 
-de constructores.
+Uso de getter y setters
+y cambios desde el main

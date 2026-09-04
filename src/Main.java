@@ -5,11 +5,9 @@ public class Main
         Alumno alumno1 = new Alumno("Fabrizio", "Ingenieria de sistemas", 24);
 
         alumno1.presentarse();
+        alumno1.setEdad(-3);
+        alumno1.presentarse();
 
-
-        Alumno alumno2 = new Alumno("Fabrizio");
-
-        alumno2.presentarse();
     }
 
 
